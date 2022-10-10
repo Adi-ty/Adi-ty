@@ -1,5 +1,5 @@
-![Header](https://freecoursesites.org/wp-content/uploads/2021/03/The-Complete-MERN-Stack-CRUD-Application-with-Source-Code.jpg )
-<img src="https://freecoursesites.org/wp-content/uploads/2021/03/The-Complete-MERN-Stack-CRUD-Application-with-Source-Code.jpg" height="150" width=100% >
+
+<img src="https://freecoursesites.org/wp-content/uploads/2021/03/The-Complete-MERN-Stack-CRUD-Application-with-Source-Code.jpg" height="300" width=100% >
 
 ### <h1 align="center">Hi there 👋</h1>
 <a href="https://www.linkedin.com/in/aditya-singh-ad69/">
