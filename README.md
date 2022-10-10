@@ -1,11 +1,11 @@
-![This is an image](https://www.mangoitsolutions.com/wp-content/uploads/2022/01/becomeamernstackdeveloper-mobile-300x279.png)
+![Header](https://secureservercdn.net/160.153.138.114/d4t.113.myftpupload.com/wp-content/uploads/2019/06/Mern-Stack-Program.png?time=1659823564)
 
-### Hi there 👋
+### <h1 align="center">Hi there 👋</h1>
 <a href="https://www.linkedin.com/in/aditya-singh-ad69/">
   <img align="left" alt="Aditya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-I'm Aditya Singh a full stack developer
+<h3 align="center">I'm Aditya Singh. A full stack developer and a general doodler with a keen eye for creating engaging UI, bringing products to life.</h3>
 
 <!--
 **Adi-ty/Adi-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
