@@ -1,4 +1,4 @@
-![Header](https://secureservercdn.net/160.153.138.114/d4t.113.myftpupload.com/wp-content/uploads/2019/06/Mern-Stack-Program.png?time=1659823564)
+![Header](https://freecoursesites.org/wp-content/uploads/2021/03/The-Complete-MERN-Stack-CRUD-Application-with-Source-Code.jpg)
 
 ### <h1 align="center">Hi there 👋</h1>
 <a href="https://www.linkedin.com/in/aditya-singh-ad69/">
