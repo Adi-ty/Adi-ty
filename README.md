@@ -1,4 +1,8 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/aditya-singh-ad69/">
+  <img align="left" alt="Aditya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <!--
 **Adi-ty/Adi-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
