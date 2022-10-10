@@ -8,8 +8,8 @@
 <a href="https://www.linkedin.com/in/aditya-singh-ad69/">
   <img align="left" alt="Aditya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<hr>
-<h3>My work</h3>
+
+<h3 align="left">My work</h3>
 <a href="https://laegb-jqaaa-aaaag-qavka-cai.raw.ic0.app/">
   <img align="left" width="30px" src="https://freepngimg.com/download/emoji/64918-united-money-dollar-sign-states-emoji.png" />
 </a>
