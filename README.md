@@ -4,10 +4,11 @@
 ### <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Aditya Singh. A full stack developer and a general doodler with a keen eye for creating engaging UI, bringing products to life.</h3>
 
-<h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/aditya-singh-ad69/">
-  <img align="left" alt="Aditya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-singh-ad69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya's Linkedin" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">My work</h3>
 <a href="https://laegb-jqaaa-aaaag-qavka-cai.raw.ic0.app/">
