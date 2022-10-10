@@ -2,11 +2,12 @@
 <img src="https://freecoursesites.org/wp-content/uploads/2021/03/The-Complete-MERN-Stack-CRUD-Application-with-Source-Code.jpg" height="300" width=100% >
 
 ### <h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Aditya Singh. A full stack developer and a general doodler with a keen eye for creating engaging UI, bringing products to life.</h3>
+
 <a href="https://www.linkedin.com/in/aditya-singh-ad69/">
   <img align="left" alt="Aditya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<h3 align="center">I'm Aditya Singh. A full stack developer and a general doodler with a keen eye for creating engaging UI, bringing products to life.</h3>
 
 <!--
 **Adi-ty/Adi-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
