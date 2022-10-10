@@ -1,5 +1,5 @@
 
-<img src="https://www.brainfuel.io/img/mern-stack.jpg" height="300" width=100% >
+<img src="https://www.macworld.com/wp-content/uploads/2022/04/which_programming_language_to_learn.jpg?quality=50&strip=all" height="300" width=100% >
 
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;</h1>
 
