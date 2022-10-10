@@ -1,7 +1,8 @@
 
 <img src="https://www.brainfuel.io/img/mern-stack.jpg" height="300" width=100% >
 
-### <h1 align="center">Hi there 👋</h1>
+### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;</h1>
+
 <h3 align="center">I'm Aditya Singh. A full stack developer and a general doodler with a keen eye for creating engaging UI, bringing products to life.</h3>
 
 <h3 align="left">Connect with me:</h3>
