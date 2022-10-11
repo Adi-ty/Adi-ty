@@ -2,8 +2,9 @@
 <img src="https://www.macworld.com/wp-content/uploads/2022/04/which_programming_language_to_learn.jpg?quality=50&strip=all" height="300" width=100% >
 
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;</h1>
-<img align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" height="100" width="220" />
-
+<div align="center">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" height="100" width="220" />
+</div>
 
 
 <h3 align="center">I'm Aditya Singh. A full stack developer and a general doodler with a keen eye for creating engaging UI, bringing products to life.</h3>
