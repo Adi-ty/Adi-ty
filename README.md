@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:<img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/></h3>
 <p align="left">
- [<img src = "https://c.tenor.com/x0C6aBxEdOEAAAAi/instagram-sign-on-instagram.gif" height="60px">](https://www.instagram.com/i_am_adi_.02/)
-[<img src = "https://c.tenor.com/8xP-RXGl3T8AAAAi/twitter-bird.gif" height = "50px">](https://twitter.com/adityas13082002)
-[<img src = "https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" height = "55px">](https://www.linkedin.com/in/adityasingh----/)
+<a href="https://www.instagram.com/i_am_adi_.02/"><img src = "https://c.tenor.com/x0C6aBxEdOEAAAAi/instagram-sign-on-instagram.gif" height="60px"></a>
+<a href="https://twitter.com/adityas13082002"><img src = "https://c.tenor.com/8xP-RXGl3T8AAAAi/twitter-bird.gif" height = "50px"></a>
+<a href="https://www.linkedin.com/in/adityasingh----/"><img src = "https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" height = "55px"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
