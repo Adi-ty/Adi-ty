@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **adityasingh09091325@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/></h3>
 <p align="left">
-<a href="https://twitter.com/adityas13082002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityas13082002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-singh-ad69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-singh-ad69" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_adi_.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_adi_.02" height="30" width="40" /></a>
+ [<img src = "https://c.tenor.com/x0C6aBxEdOEAAAAi/instagram-sign-on-instagram.gif" height="60px">](https://www.instagram.com/i_am_adi_.02/)
+[<img src = "https://c.tenor.com/8xP-RXGl3T8AAAAi/twitter-bird.gif" height = "50px">](https://twitter.com/adityas13082002)
+[<img src = "https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" height = "55px">](https://www.linkedin.com/in/adityasingh----/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
