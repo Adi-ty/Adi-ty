@@ -148,10 +148,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-ty&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Aditya%20%27s%20Github%20Stats" alt="Aditya's GitHub Stats" />
 </a> -->
 </div>
-<div style="margin-top:10px" align="center">
+<div style="margin-top:5px" align="center">
+<hr>
+
 <h2 align='center'>Watch my contributions get eaten by a 🐍...😭</h2>
 <br>
+
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
+
 </div>
 <hr>
 
