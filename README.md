@@ -148,6 +148,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-ty&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Aditya%20%27s%20Github%20Stats" alt="Aditya's GitHub Stats" />
 </a> -->
 </div>
+<div align="center">
+  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+<a href="https://github.com/Adi-ty">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adi-ty&theme=gruvbox&hide_border=true)](https://github.com/Adi-ty" alt="Aditya's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/Adi-ty">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-ty&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Aditya%20%27s%20Github%20Stats" alt="Aditya's GitHub Stats" />
+</a>
+</div>
 <div style="margin-top:5px" align="center">
 <hr>
 
