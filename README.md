@@ -5,6 +5,10 @@
 - 💬 Ask me about web development. 
 - 📫 How to reach me: LinkedIn [@Aditya Singh](https://www.linkedin.com/in/adityasingh----/) or twitter [@AdityaS13082002](https://twitter.com/AdityaS13082002)
 
+##Writings
+* [Introducing Cypress: The Next-Generation Testing Tool for Web Applications](https://medium.com/@adityasingh09091325/introducing-cypress-the-next-generation-testing-tool-for-web-applications-f3fb0ff56b5a)
+* [All You Need to Know About HTTP Status Codes](https://adityadevelops.hashnode.dev/all-you-need-to-know-about-http-status-codes)
+* [More Writings...](https://adityadevelops.hashnode.dev/)
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
