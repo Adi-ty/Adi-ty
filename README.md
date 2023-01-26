@@ -148,7 +148,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-ty&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Aditya%20%27s%20Github%20Stats" alt="Aditya's GitHub Stats" />
 </a> -->
 </div>
-<div align="center">
+<!-- <div align="center">
   <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/Adi-ty">
@@ -158,7 +158,7 @@
 <a href="https://github.com/Adi-ty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-ty&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Aditya%20%27s%20Github%20Stats" alt="Aditya's GitHub Stats" />
 </a>
-</div>
+</div> -->
 <div style="margin-top:5px" align="center">
 <hr>
 
