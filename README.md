@@ -165,6 +165,15 @@
 </div> -->
 <div style="margin-top:5px" align="center">
 <hr>
+<h2 align="center">Github Streak</h2>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adi-ty&theme=modern-lilac2&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div style="margin-top:5px" align="center">
+<hr>
 
 <h2 align='center'>Watch my contributions get eaten by a 🐍...😭</h2>
 <br>
