@@ -173,6 +173,10 @@
 
 </div>
 <hr>
+<div style="margin-top:5px" align="center">
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bgseqpoikxiiygcallki3lprsi&count=2)
+
+</div>
 
 ------
