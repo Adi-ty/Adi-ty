@@ -163,14 +163,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-ty&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Aditya%20%27s%20Github%20Stats" alt="Aditya's GitHub Stats" />
 </a>
 </div> -->
-<div style="margin-top:5px" align="center">
-<hr>
-<h2 align="center">Github Streak</h2>
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adi-ty&theme=modern-lilac2&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
 
 <div style="margin-top:5px" align="center">
 <hr>
