@@ -160,16 +160,7 @@
 </a>
 </div> -->
 
-<div style="margin-top:5px" align="center">
-<hr>
 
-<h2 align='center'>Watch my contributions get eaten by a 🐍...😭</h2>
-<br>
-
-![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
-
-</div>
-<hr>
 <div style="margin-top:5px" align="center">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bgseqpoikxiiygcallki3lprsi&count=3)
