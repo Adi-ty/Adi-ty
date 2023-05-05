@@ -5,6 +5,12 @@
 </div>
 
 <div align='center'>
+
+![terminal-gif](https://raw.githubusercontent.com/Adi-ty/Adi-ty/main/terminal%20(1).gif)
+
+</div>
+
+<div align='center'>
 <h2 align="center"><u><b>Skills</b></u></h2>
 
 <div style="display: flex; align-items: flex-start;">
