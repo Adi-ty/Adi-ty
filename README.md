@@ -20,7 +20,7 @@
     </a>
   </div>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi-ty&show_icons=true&theme=codeSTACKr&locale=en&layout=donut&size_weight=0.8&count_weight=0.2&hide=css,%20html" alt="shubhsardana29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi-ty&show_icons=true&theme=codeSTACKr&locale=en&layout=donut&size_weight=0.8&count_weight=0.2&hide=css,%20html" alt="Adi-ty" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-ty&theme=codeSTACKr" alt="Adi-ty" /></p>
 
 ------
