@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adi-ty&label=Profile%20views&color=77bb41&style=plastic" alt="Adi-ty" /> </p>
 <p align="left"> <a href="https://twitter.com/adisinghonx" target="blank"><img src="https://img.shields.io/twitter/follow/adisinghonx?logo=twitter&style=for-the-badge" alt="adisinghonx" /></a> </p>
 
-- 🌱 I’m currently **learning Rust.**
+- 🌱 I’m currently **learning Go.**
 - 📫 How to reach me **adityasingh09091325@gmail.com**
 
   
